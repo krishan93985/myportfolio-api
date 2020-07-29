@@ -1,5 +1,5 @@
 # myportfolio-api 
-A server for my portfolio.
+A server for my portfolio \
 PURPOSE is to contact me through email from visiter employers on actual website 
 
 # What i learned
